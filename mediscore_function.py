@@ -2,7 +2,7 @@ from datetime import datetime
 import json
 from enum import Enum
 import os
-
+import traceback
 
 # Create respiration and consciousness enums
 class respiration(Enum):
@@ -174,7 +174,7 @@ def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cb
         # return mediscore and flag
         return medi_score, flag
     except Exception as e:
-        return str(e)
+        print(traceback.format_exc())
 
 
 print(calculate_medi_score(respiration.OXYGEN.value, consciousness.ALERT.value, 15, 95, 37.1, 6.4, 0))
