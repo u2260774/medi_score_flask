@@ -3,7 +3,7 @@ import pickle
 from flask_wtf import FlaskForm
 from wtforms import SelectField
 from forms import InputForm
-from medicare_function import calculate_medi_score
+from mediscore_function import calculate_medi_score
 
 
 app = Flask(__name__)
