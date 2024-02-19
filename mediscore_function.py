@@ -45,7 +45,7 @@ def get_resp_rate(resp_rate):
             return 0
         elif resp_rate <= 24:
             return 2
-    except Exception:
+    except Exception as e:
         if (isinstance(resp_rate,int) and resp_rate < 0):
             raise e
         else:
