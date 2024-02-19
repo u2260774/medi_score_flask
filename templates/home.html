@@ -15,7 +15,6 @@
                     }
     </style>
 <div> 
-    <!-- Add your image with the specified class -->
     <div>
     <img src="{{ url_for('static', filename='medicare_logo.png') }}" class="top-left-image">
     </div>
@@ -82,7 +81,7 @@
 
             {%if medi_score[1] == True%}
             <div class="form-group mt-4 alert alert-danger" role="alert">
-                ALERT!!! The patient needs immediate attention , rapid change in Medi Score detected
+                ALERT! The patient needs immediate attention, rapid change in Medi Score detected
             </div>
             {%endif%}
 
