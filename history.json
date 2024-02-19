@@ -1,1 +1,19 @@
-{"history":[]}
+{
+    "history": [
+        {
+            "time": "2024-02-19 19:53:56.404642",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 3,
+                    "spo2_score": 3,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 15,
+                    "flag": false
+                }
+            ]
+        }
+    ]
+}
