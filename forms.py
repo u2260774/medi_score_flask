@@ -3,7 +3,6 @@ from wtforms import SelectField, IntegerField, FloatField, SubmitField
 from wtforms.validators import InputRequired
 
 class InputForm(FlaskForm):
-    patient_id = IntegerField('Patient ID', validators=[InputRequired()])
     resp_type = SelectField('What is the respiration type?', choices=[('', 'Please select'), ('2', 'Oxygen'), ('0', 'Air')], validators=[InputRequired()])
     conc = SelectField('Is the patient concious?', choices=[('', 'Please select'), ('0', 'Aware'), ('3', 'Unconcious')], validators=[InputRequired()])
     resp_rate = IntegerField('Respirate Rate', validators=[InputRequired()])
