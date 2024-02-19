@@ -29,7 +29,7 @@ def home():
         medi_score = calculate_medi_score(resp_type, conc, resp_rate, spo2, temp, cbg, time_since)
         if isinstance(medi_score[0],int):
             alert = medi_score[1]
-            medi_score = "The patient's Medi score is "+medi_score[0]+"."
+            medi_score = "The patient's Medi score is "+str(medi_score[0])+"."
         print_mediscore = True
 
         return render_template('home.html', form=form,flag=print_mediscore,medi_score=medi_score,alert=alert)
