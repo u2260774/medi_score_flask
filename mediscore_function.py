@@ -46,7 +46,7 @@ def get_resp_rate(resp_rate):
         elif resp_rate <= 24:
             return 2
     except Exception:
-        if (isinstance(resp_rate,int) && resp_rate < 0):
+        if (isinstance(resp_rate,int) and resp_rate < 0):
             raise e
         else:
             raise Exception("Respiration rate must be whole digits only.")
@@ -74,7 +74,7 @@ def get_spo2(spo2, resp_type):
         elif resp_type >= 97:
             return 3
     except Exception as e:
-        if (isinstance(temp,int) && spo2 < 0):
+        if (isinstance(temp,int) and spo2 < 0):
             raise e
         else:
             raise Exception("SpO2 accepts whole digits only.")
@@ -97,7 +97,7 @@ def get_temp(temp):
         elif temp <= 38.0:
             return 0
     except Exception as e:
-        if (temp < 0 && (isinstance(temp,float))):
+        if (temp < 0 and (isinstance(temp,float))):
             raise e
         else:
             raise Exception("Temperature must be in digits.")
@@ -106,11 +106,10 @@ def get_temp(temp):
 # return cbg mediscore
 def get_cbg(cbg, timeSinceMeal):
     try:
-        if cbg < 0:
-            raise Exception("CBG can not be negative. Only digits accepted")
         # make sure input was a float, round to one decimal point
         cbg = round(float(cbg), 1)
-        print(cbg)
+        if cbg < 0:
+            raise Exception("CBG can not be negative.")
         if timeSinceMeal <= 2:
             if cbg <= 4.4 or cbg >= 9.0:
                 return 3
@@ -126,7 +125,10 @@ def get_cbg(cbg, timeSinceMeal):
             elif cbg <= 5.4:
                 return 0
     except Exception as e:
-        raise e
+        if (cbg < 0 and (isinstance(cbg,float))):
+            raise e
+        else:
+            raise Exception("CBG must be in digits.")
 
 
 def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cbg, timeSinceMeal):
