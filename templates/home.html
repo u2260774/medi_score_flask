@@ -28,12 +28,6 @@
         {{ form.csrf_token }}
         <div class="form-row">
             <div class="form-group col-md-6">
-                {{ form.resp_type.label(class="form-control-label") }}
-                {{ form.resp_type(class="form-control") }}
-            </div>
-        </div>
-        <div class="form-row">
-            <div class="form-group col-md-6">
                 {{ form.conc.label(class="form-control-label") }}
                 {{ form.conc(class="form-control") }}
             </div>
@@ -60,6 +54,12 @@
             <div class="form-group col-md-6">
                 {{ form.cbg.label(class="form-control-label") }}
                 {{ form.cbg(class="form-control") }}
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                {{ form.patient_id.label(class="form-control-label") }}
+                {{ form.patient_id(class="form-control") }}
             </div>
         </div>
         <div class="text-center">
