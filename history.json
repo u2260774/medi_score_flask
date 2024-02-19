@@ -1,0 +1,2254 @@
+{
+    "history": [
+        {
+            "time": "2024-02-18 18:20:18.959577",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-18 18:20:19.408600",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-18 18:21:08.327277",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-18 18:21:40.877942",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-18 18:21:41.274289",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:33:22.442860",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:33:22.772852",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:34:19.842270",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:35:17.292464",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:35:17.618768",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:35:45.368906",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:36:41.019439",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:36:41.348123",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:37:00.951729",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:37:05.461432",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:38:21.721021",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:38:22.042356",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:38:41.122242",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:38:41.445041",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:38:45.206154",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:03.128453",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:12.395392",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:12.722379",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:15.286613",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:54.879646",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:55.207842",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:39:57.856797",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:40:14.834195",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:40:22.315276",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:40:24.751706",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:40:27.195955",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:42:46.622273",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:42:46.958541",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:42:50.561497",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:47:19.385711",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:51:24.414448",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:51:38.587390",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:53:06.518499",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 1,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 1,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 14:53:47.498964",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 3,
+                    "spo2_score": 3,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 12,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:02:03.386289",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:02:03.765171",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:02:06.687418",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 3,
+                    "spo2_score": 3,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 15,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:03:42.642576",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:05:32.017831",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:06:15.549641",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 0,
+                    "medi_score": 8,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:06:46.274253",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:06:54.274302",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:08:16.481616",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:08:22.536119",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 2,
+                    "medi_score": 10,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:08:39.578489",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 0,
+                    "medi_score": 8,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:06.234382",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 2,
+                    "medi_score": 10,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:29.671949",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:41.895806",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:43.601136",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:46.605837",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:49.427456",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:09:54.421368",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 2,
+                    "medi_score": 10,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:10:00.614448",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 0,
+                    "medi_score": 8,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:10:07.858931",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 2,
+                    "medi_score": 10,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:10:15.076242",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 15:12:20.470746",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:09:14.284334",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:09:14.701063",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:10:34.890613",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:10:39.401859",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:10:41.554182",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:14:35.007728",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:14:42.562250",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:14:47.109696",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:16:43.384346",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:16:43.954221",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:16:46.938828",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:17:02.454671",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:17:05.503160",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 3,
+                    "medi_score": 11,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:18:45.539847",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:19:12.295020",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:19:17.870654",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:19:18.310492",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:19:47.037124",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:20:31.918974",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:20:32.344868",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:20:56.024414",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:20:58.514243",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:21:02.067627",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:21:32.436878",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:21:32.869663",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:23:33.447242",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:23:34.952396",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:23:46.552977",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:23:52.090061",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:23:54.605201",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:24:00.140787",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:24:23.288496",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:24:23.732713",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:24:47.515999",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:24:50.053468",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:25:10.784465",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:26:09.181108",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:26:38.960262",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:26:53.570090",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:27:30.200483",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:27:30.542448",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:27:41.613539",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:27:49.568746",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 3,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:28:22.820112",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:28:25.751899",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 3,
+                    "medi_score": 3,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:29:10.003609",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:29:12.492579",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:29:38.602435",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:29:59.393366",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:30:02.942399",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:30:22.367649",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:30:31.263091",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:30:34.442080",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:30:43.053854",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:31:04.290873",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:32:17.184838",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:32:17.569192",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:32:25.690939",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:32:35.743724",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:32:55.386781",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:33:00.873425",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:33:03.368834",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:33:04.914274",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:14.878479",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:15.354207",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:18.559731",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:20.563088",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:26.626923",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:28.226638",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:28.628873",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:29.640596",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 3,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 3,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:35:44.059904",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:36:22.436090",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:37:08.059928",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:37:15.456248",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:38:08.241401",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:38:11.762782",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:38:20.831227",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:39:01.455120",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:40:20.592862",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:42:21.387249",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:42:21.876399",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:42:25.846538",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:42:31.659762",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:42:36.461346",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:45:08.792649",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:45:12.895407",
+            "info": [
+                {
+                    "resp_type": 0,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 0,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 0,
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:45:16.198239",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 0,
+                    "resp_rate_score": 0,
+                    "spo2_score": 2,
+                    "temp_score": 0,
+                    "cbg_score": 0,
+                    "medi_score": 4,
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "time": "2024-02-19 16:46:25.962761",
+            "info": [
+                {
+                    "resp_type": 2,
+                    "consc_type": 3,
+                    "resp_rate_score": 2,
+                    "spo2_score": 0,
+                    "temp_score": 1,
+                    "cbg_score": 0,
+                    "medi_score": 8,
+                    "flag": true
+                }
+            ]
+        }
+    ]
+}
