@@ -18,7 +18,7 @@ def home():
     form = InputForm()
 
     if form.validate_on_submit():
-
+        print("adsadasd")
         patient_id = form.patient_id.data
         resp_type = int(form.resp_type.data)
         conc = int(form.conc.data)
