@@ -28,11 +28,6 @@ def home():
         cbg = form.cbg.data
 
         medi_score = calculate_medi_score(resp_type, conc, resp_rate, spo2, temp, cbg, time_since)
-        print("1")
-        print(medi_score)
-        if medi_score[1] == True :
-            flash('ALERT!!! The patient needs immediate attention , rapid change in Medi Score detected', 'error')
-
 
         print_mediscore = True
 
