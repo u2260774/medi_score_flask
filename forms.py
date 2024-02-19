@@ -1,6 +1,6 @@
 from flask_wtf import FlaskForm
 from wtforms import SelectField, IntegerField, FloatField, SubmitField
-from wtforms.validators import InputRequired,InputRequired
+from wtforms.validators import InputRequired
 
 class InputForm(FlaskForm):
     patient_id = IntegerField('Patient ID', validators=[InputRequired()])
