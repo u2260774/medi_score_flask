@@ -186,6 +186,3 @@ def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cb
         return medi_score, flag
     except Exception as e:
         return str(e)
-
-
-print(calculate_medi_score(respiration.OXYGEN.value, consciousness.ALERT.value, 15, 95, 37.1, 6.4, 0))
