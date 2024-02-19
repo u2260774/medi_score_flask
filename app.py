@@ -18,7 +18,6 @@ def home():
     form = InputForm()
 
     if form.validate_on_submit():
-        print("adsadasd")
         patient_id = form.patient_id.data
         resp_type = int(form.resp_type.data)
         conc = int(form.conc.data)
@@ -29,7 +28,7 @@ def home():
         cbg = form.cbg.data
 
         medi_score = calculate_medi_score(resp_type, conc, resp_rate, spo2, temp, cbg, time_since)
-
+        print(medi_score)
         if medi_score[1] == True :
             flash('ALERT!!! The patient needs immediate attention , rapid change in Medi Score detected', 'error')
 
