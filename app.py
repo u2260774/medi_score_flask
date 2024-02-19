@@ -27,6 +27,7 @@ def home():
         cbg = form.cbg.data
 
         medi_score = calculate_medi_score(resp_type, conc, resp_rate, spo2, temp, cbg, time_since)
+        alert = False
         if isinstance(medi_score[0],int):
             alert = medi_score[1]
             medi_score = "The patient's Medi score is "+str(medi_score[0])+"."
