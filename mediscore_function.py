@@ -139,7 +139,6 @@ def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cb
             with open('history.json') as history:
                 history_data = json.load(history)
                 # get time and mediscore from last entry
-                print(type(history_data))
                 time = datetime.strptime(history_data["history"][-1]["time"], '%Y-%m-%d %H:%M:%S.%f')
                 prev_score = history_data["history"][-1]["info"][0]["medi_score"]
                 delta = curr_time - time
@@ -175,7 +174,7 @@ def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cb
         # return mediscore and flag
         return medi_score, flag
     except Exception as e:
-        return(traceback.format_exc())
+        return str(e)
 
 
 print(calculate_medi_score(respiration.OXYGEN.value, consciousness.ALERT.value, 15, 95, 37.1, 6.4, 0))
