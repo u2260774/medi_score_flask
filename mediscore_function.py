@@ -74,7 +74,7 @@ def get_spo2(spo2, resp_type):
         elif resp_type >= 97:
             return 3
     except Exception as e:
-        if (isinstance(temp,int) and spo2 < 0):
+        if (isinstance(spo2,int) and spo2 < 0):
             raise e
         else:
             raise Exception("SpO2 accepts whole digits only.")
