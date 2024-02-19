@@ -139,6 +139,7 @@ def calculate_medi_score(respirationType, consc, respRate, spo2, temperature, cb
             with open('history.json') as history:
                 history_data = json.load(history)
                 # get time and mediscore from last entry
+                print(type(history_data))
                 time = datetime.strptime(history_data["history"][-1]["time"], '%Y-%m-%d %H:%M:%S.%f')
                 prev_score = history_data["history"][-1]["info"][0]["medi_score"]
                 delta = curr_time - time
